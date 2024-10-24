@@ -1,4 +1,5 @@
-Proyecto Integrador - Aplicación Web Dinámica
+Proyecto Integrador 
+Simil Hamburgueseria
 
 Proyecto sencillo que simula la pagina de una hamburgueseria. Se pueden agregar, modificar y eliminar articulos. Ademas puede hacer uso de filtros de busqueda.
 
